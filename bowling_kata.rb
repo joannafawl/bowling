@@ -1,3 +1,0 @@
-def practice
-
-end
